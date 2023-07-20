@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color:#262926;
+    height:50px;
+}
+nav ul{
+     height:50px;
+ 
+    margin: 0 auto;
+}
+
+nav ul li{
+    list-style-type: none;
+    width: 150px;
+    float: left;
+    text-align:center;
+}
+
+li a{
+
+    text-decoration: none;
+    color: #faf7f7;
+    line-height:50px;
+    display: block;
+}
+
+li a:hover{
+     background-color: #0a0100;
+     color:#faf7f7;
+    
+}
